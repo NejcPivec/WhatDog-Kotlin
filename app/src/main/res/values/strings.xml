@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WhatDog</string>
+
+    <string-array name="dogs">
+        <item>Čivava</item>
+        <item>Japonski spanjel</item>
+        <item>Maltežan</item>
+        <item>Pekinžan</item>
+        <item>Šicu</item>
+        <item>Karlov španjel</item>
+        <item>Metuljček</item>
+        <item>Rodezijski grebenar</item>
+        <item>Afganistanski hrt</item>
+        <item>Baset</item>
+        <item>Beagle</item>
+        <item>Krvosledec</item>
+        <item>Modropikasti rakunar</item>
+        <item>Walker hound</item>
+        <item>Angleški lisičar</item>
+        <item>Redbonov rakunar</item>
+        <item>Borzoj</item>
+        <item>Irski volčji hrt</item>
+        <item>Mali italijanski hrt</item>
+        <item>Mali angleški hrt</item>
+    </string-array>
+
+</resources>
