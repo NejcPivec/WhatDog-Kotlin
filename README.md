@@ -17,3 +17,10 @@ Mobile application for recognizing breed of a dog. It uses simple machine learni
 
 ## ScreenShots:
 
+![Main Screen](https://github.com/NejcPivec/WhatDog-Kotlin/blob/main/app/screenshots/mainPage.png)
+
+![Recognized Screen](https://github.com/NejcPivec/WhatDog-Kotlin/blob/main/app/screenshots/recognized.png)
+
+![My dogs Screen](https://github.com/NejcPivec/WhatDog-Kotlin/blob/main/app/screenshots/myDogs.png)
+
+![Wiki Search](https://github.com/NejcPivec/WhatDog-Kotlin/blob/main/app/screenshots/wiki_search.png)
